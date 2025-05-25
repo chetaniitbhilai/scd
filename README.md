@@ -16,6 +16,7 @@
 
     ```bash
     git clone https://github.com/chetaniitbhilai/scd/
+    cd scd
     ```
 
 2. **Move the script to your home directory as a hidden file**  
