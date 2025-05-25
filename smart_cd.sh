@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Smart CD - Enhanced directory navigation with history and fuzzy search
 # Usage: 
