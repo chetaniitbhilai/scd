@@ -7,7 +7,7 @@
 
 
 
-`smart_cd` (`scd`) is a powerful shell utility that improves your directory navigation experience. With **fuzzy matching**, **usage history**, and **lightweight commands**, `scd` makes jumping to frequently visited directories as easy as typing a few letters.
+`smart_cd` (`scd`) is a powerful shell utility that improves your directory navigation experience. With **fuzzy matching**, **usage history**, and **lightweight commands**, `scd` makes jumping to frequently visited directories as easy as typing a few letters. It is lightweight package that uses posix shell so no bash is required.
 
 ---
 
