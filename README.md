@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="icon.png" alt="SCD Logo" width="150"/>
+</p>
+
 # 📁 Smart CD — Enhanced Directory Navigation with History & Fuzzy Search
+
+
+
 
 `smart_cd` (`scd`) is a powerful shell utility that improves your directory navigation experience. With **fuzzy matching**, **usage history**, and **lightweight commands**, `scd` makes jumping to frequently visited directories as easy as typing a few letters.
 
