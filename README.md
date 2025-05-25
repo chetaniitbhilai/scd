@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="SCD Logo" width="150"/>
+  <img src="icon2.png" alt="SCD Logo" width="150"/>
 </p>
 
 # 📁 Smart CD — Enhanced Directory Navigation with History & Fuzzy Search
